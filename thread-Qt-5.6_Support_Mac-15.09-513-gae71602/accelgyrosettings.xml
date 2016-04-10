@@ -1,7 +1,7 @@
 <xml>
     <object name="AccelGyroSettings" singleinstance="true" settings="true" category="Sensors">
         <description>Settings for Accelerometer and Gyroscope calibration </description>
-        <!-- Sensor calibration # -->
+        <!-- Sensor calibration -->
         <field name="accel_bias" units="m/s" type="float" elementnames="X,Y,Z" defaultvalue="0,0,0"/>
         <field name="accel_scale" units="gain" type="float" elementnames="X,Y,Z" defaultvalue="1,1,1"/>
         <field name="accel_temp_coeff" units="" type="float" elementnames="X,Y,Z" defaultvalue="0"/>
