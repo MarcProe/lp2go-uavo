@@ -1,1 +1,2 @@
-﻿export UAVO_HASH=${UAVO_HASH}
+﻿#!/bin/bash
+export UAVO_HASH=${UAVO_HASH}
