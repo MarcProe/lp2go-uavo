@@ -1,2 +1,2 @@
-﻿#! /usr/bin/env bash
+#! /usr/bin/env bash
 export UAVO_HASH=${UAVO_HASH}
