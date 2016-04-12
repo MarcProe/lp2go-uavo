@@ -1,5 +1,6 @@
 #! /usr/bin/env bash
 export UAVO_HASH="${UAVO_HASH}"
+export UAVO_HASH8="${UAVO_HASH8}"
 export ORIGIN="${ORIGIN}"
 export HASH="${HASH}"
 export HASH8="${HASH8}"
