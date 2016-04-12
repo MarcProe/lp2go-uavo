@@ -1,10 +1,10 @@
 #! /usr/bin/env bash
-export UAVO_HASH=${UAVO_HASH}
-export ORIGIN = ${ORIGIN}
-export HASH = ${HASH}
-export HASH8 = ${HASH8}
-export TAG = ${TAG}
-export TAG_OR_BRANCH = ${TAG_OR_BRANCH}
-export TAG_OR_HASH8 = ${TAG_OR_HASH8}
-export LABEL = ${LABEL}
-export REVISION = ${REVISION}
+export UAVO_HASH="${UAVO_HASH}"
+export ORIGIN="${ORIGIN}"
+export HASH="${HASH}"
+export HASH8="${HASH8}"
+export TAG="${TAG}"
+export TAG_OR_BRANCH="${TAG_OR_BRANCH}"
+export TAG_OR_HASH8="${TAG_OR_HASH8}"
+export LABEL="${LABEL}"
+export REVISION="${REVISION}"
