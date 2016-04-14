@@ -6,3 +6,5 @@
 
 ### Get the correct file from the [zip directory](https://github.com/MarcProe/lp2go-uavo/tree/master/zip):
 ![ZIP](https://github.com/MarcProe/lp2go-uavo/blob/master/wiki/file.png)
+
+(read hash is mandatory, blue hash is optional)
