@@ -42,6 +42,8 @@
 	<field name="CruiseControlInvertedThrustReversing" units="" type="enum" elements="1" options="Unreversed,Reversed" defaultvalue="Unreversed"/>
 	<field name="CruiseControlInvertedPowerOutput"     units="" type="enum" elements="1" options="Zero,Normal,Boosted" defaultvalue="Zero"/>
 
+	<field name="SonarAltitudeFlightModeSwitchPosEnable" units="" type="enum" elements="6" options="False,True" defaultvalue="False"/>
+
 	<field name="LowThrottleZeroIntegral" units="" type="enum" elements="1" options="False,True" defaultvalue="True"/>
 
 	<field name="ScaleToAirspeed" units="m/s" type="float" elements="1" defaultvalue="0"/>
