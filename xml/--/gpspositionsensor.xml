@@ -5,7 +5,6 @@
         <field name="Latitude" units="degrees x 10^-7" type="int32" elements="1"/>
         <field name="Longitude" units="degrees x 10^-7" type="int32" elements="1"/>
         <field name="Altitude" units="meters" type="float" elements="1"/>
-        <field name="AltitudeRaw" units="meters" type="float" elements="1"/>
         <field name="GeoidSeparation" units="meters" type="float" elements="1"/>
         <field name="Heading" units="degrees" type="float" elements="1"/>
         <field name="Groundspeed" units="m/s" type="float" elements="1"/>
