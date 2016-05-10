@@ -5,4 +5,7 @@
 ![About Screen](https://raw.githubusercontent.com/MarcProe/lp2go-uavo/master/wiki/about.png)
 
 ### Get the correct file from the [zip directory](https://github.com/MarcProe/lp2go-uavo/tree/master/zip):
-![ZIP](https://raw.githubusercontent.com/MarcProe/lp2go-uavo/master/wiki/file.png)
+#### At Github
+![Github](https://raw.githubusercontent.com/MarcProe/lp2go-uavo/master/wiki/file.png)
+####or at bintray
+![Bintray](https://raw.githubusercontent.com/MarcProe/lp2go-uavo/master/wiki/bintray.png)
